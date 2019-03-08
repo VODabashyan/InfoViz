@@ -1,0 +1,101 @@
+Age,Gender,Occupation,Nationality,Salary,Frequency,Payment,Price,Phone
+25,Male,Employed,Armenian,1300 - 3000,More than 36 months,Cash,900,Samsung (Android)
+27,Female,Employed,Armenian,1300 - 3000,25 - 36 months,Credit,800,Apple Iphone
+23,Female,Employed&student,Armenian,600 - 1300,More than 36 months,Credit,250,Moto (Android)
+22,Female,Employed,Armenian,600 - 1300,25 - 36 months,Credit,300,Honor 
+23,Male,Employed&student,Armenian,600 - 1300,12 - 24 months ,Cash,200,Samsung (Android)
+23,Female,Employed,Armenian,300 - 600,More than 36 months,Cash,300,Samsung (Android)
+22,Female,Employed&student,Armenian,300 - 600,More than 36 months,Cash,700,Samsung (Android)
+26,Male,Employed,Armenian,300 - 600,12 - 24 months ,Cash,200,Meizu M6s
+23,Female,Student,Armenian,300 - 600,25 - 36 months,Cash,300,Other (Android)
+24,Female,Employed,Armenian,300 - 600,12 - 24 months ,Credit,350,Samsung (Android)
+26,Male,Employed,Armenian,300 - 600,12 - 24 months ,Credit,900,Apple Iphone
+22,Female,Student,Armenian,300 - 600,More than 36 months,Cash,200,Samsung (Android)
+30,Female,Employed,Armenian,300 - 600,More than 36 months,Cash,600,Apple Iphone
+22,Female,Employed,Armenian,300 - 600,More than 36 months,Credit,250,HTC (Android)
+33,Female,Employed,Armenian,300 - 600,25 - 36 months,Cash,500,Samsung (Android)
+22,Female,Student,Armenian,300 - 600,25 - 36 months,Cash,1000,Apple Iphone
+24,Male,Employed,Armenian,300 - 600,25 - 36 months,Credit,500,Samsung (Android)
+25,Female,Employed,Armenian,300 - 600,25 - 36 months,Cash,800,Apple Iphone
+26,Male,Unemployed,Armenian,300 - 600,25 - 36 months,Credit,300,Samsung (Android)
+37,Female,Employed,Armenian,300 - 600,12 - 24 months ,Credit,200,Samsung (Android)
+29,Female,Employed,Armenian,300 - 600,25 - 36 months,Cash,900,Apple Iphone
+26,Female,Employed,Armenian,300 - 600,More than 36 months,Cash,600,Apple Iphone
+27,Female,Employed,Armenian,300 - 600,12 - 24 months ,Credit,150,Samsung (Android)
+26,Female,Employed,Armenian,300 - 600,25 - 36 months,Credit,800,Samsung (Android)
+21,Female,Student,Armenian,300 - 600,More than 36 months,Cash,500,Apple Iphone
+21,Female,Student,Armenian,300 - 600,Less than 12 months,Credit,400,Apple Iphone
+23,Female,Employed,Armenian,300 - 600,More than 36 months,Credit,300,Lenovo
+26,Male,Employed,Armenian,300 - 600,More than 36 months,Cash,400,Apple Iphone
+24,Male,Employed,Armenian,300 - 600,Less than 12 months,Cash,350,Samsung (Android)
+32,Male,Employed,Armenian,300 - 600,More than 36 months,Cash,250,Samsung (Android)
+28,Male,Student,Armenian,Less than 300,12 - 24 months ,Cash,500,Samsung (Android)
+28,Male,Student,Armenian,Less than 300,More than 36 months,Cash,500,Plus 1 (Android)
+26,Female,Employed,Armenian,Less than 300,More than 36 months,Cash,300,Samsung (Android)
+23,Female,Student,Armenian,Less than 300,More than 36 months,Cash,700,Apple Iphone
+27,Female,Employed,Armenian,Less than 300,25 - 36 months,Cash,350,Apple Iphone
+22,Female,Employed,Armenian,Less than 300,12 - 24 months ,Cash,500,Apple Iphone
+26,Female,Employed,Armenian,Less than 300,More than 36,Credit,800,Apple Iphone
+28,Female,Unemployed,Armenian,Less than 300,25 - 36 months,Subscription,700,Apple Iphone
+26,Female,Student,Armenian,Less than 300,12 - 24 months ,Cash,100,Lenovo
+54,Female,Unemployed,Armenian,Less than 300,More than 36 months,Cash,400,Micromax
+21,Male,Employed,Armenian,Less than 300,12 - 24 months ,Credit,600,Nokia
+20,Female,Student,Armenian,Less than 300,25 - 36 months,Cash,400,Apple Iphone
+21,Female,Student,Armenian,Less than 300,12 - 24 months ,Subscription,800,Apple Iphone
+20,Female,Student,Armenian,Less than 300,25 - 36 months,Cash,500,Apple Iphone
+21,Female,Student,Armenian,Less than 300,More than 36 months,Cash,300,Samsung (Android)
+26,Male,Employed,Armenian,Less than 300,25 - 36 months,Cash,400,LG (Android)
+31,Female,Unemployed,Armenian,Less than 300,25 - 36 months,Credit,450,Samsung (Android)
+24,Female,Employed,Armenian,Less than 300,12 - 24 months ,Cash,500,Samsung (Android)
+24,Female,Unemployed,Armenian,Less than 300,More than 36 months,Credit,700,Samsung (Android)
+24,Female,Employed,Armenian,Less than 300,12 - 24 months ,Cash,500,Samsung (Android)
+25,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,350,Samsung (Android)
+31,Male,Employed,Italian,1300 - 3000,Less than 12,Credit,250,Samsung (Android)
+27,Male,Soldier,Italian,1300 - 3000,More than 36 months,Cash,800,Apple Iphone
+25,Male,Employed,Italian,1300 - 3000,25 - 36 months,Subscription,500,Samsung (Android)
+24,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,700,Apple Iphone
+25,Male,Student,Italian,1300 - 3000,12 - 24 months ,Credit,200,Samsung (Android)
+24,Male,Employed,Italian,1300 - 3000,12 - 24 months ,Credit,200,Huawei 
+23,Male,Soldier,Italian,1300 - 3000,25 - 36 months,Subscription,400,Samsung (Android)
+27,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,250,Samsung (Android)
+26,Male,Employed,Italian,1300 - 3000,More than 36 months,Cash,400,Apple Iphone
+25,Male,Employed,Italian,1300 - 3000,25 - 36 months,Credit,400,Motorola (android)
+25,Male,Employed,Italian,1300 - 3000,25 - 36 months,Subscription,500,Samsung (Android)
+24,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,460,Samsung (Android)
+26,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,300,Apple Iphone
+23,Male,Employed,Italian,1300 - 3000,More than 36 months,Subscription,300,Samsung (Android)
+26,Female,Employed,Italian,1300 - 3000,25 - 36 months,Cash,600,Apple Iphone
+24,Male,Employed,Italian,1300 - 3000,12 - 24 months ,Subscription,450,Apple Iphone
+25,Male,Employed,Italian,1300 - 3000,25 - 36 months,Subscription,300,Samsung (Android)
+24,Male,Employed,Italian,1300 - 3000,25 - 36 months,Subscription,700,Apple Iphone
+28,Male,Employed,Italian,1300 - 3000,More than 36 months,Credit,450,Apple Iphone
+30,Male,Employed,Italian,600 - 1300,25 - 36 months,Cash,300,Asus android
+43,Male,Rider,Italian,600 - 1300,25 - 36 months,Cash,200,Asus
+24,Male,Unemployed,Italian,600 - 1300,25 - 36 months,Subscription,200,Samsung (Android)
+35,Male,Employed,Italian,600 - 1300,25 - 36 months,Cash,1000,Apple Iphone
+24,Male,Employed,Italian,600 - 1300,Less than 12 months,Cash,400,Samsung (Android)
+28,Female,Employed,Italian,600 - 1300,More than 36 months,Subscription,420,LG (Android)
+26,Male,Employed,Italian,600 - 1300,12 - 24 months ,Credit,400,LG (Android)
+27,Male,Employed,Italian,600 - 1300,25 - 36 months,Subscription,350,Samsung (Android)
+26,Male,Student,Italian,600 - 1300,25 - 36 months,Cash,400,Apple Iphone
+30,Male,Employed,Italian,600 - 1300,25 - 36 months,Credit,250,LG (Android)
+22,Male,Student,Italian,600 - 1300,25 - 36 months,Subscription,700,Apple Iphone
+23,Male,Student,Italian,300 - 600,More than 36 months,Credit,500,Samsung (Android)
+27,Male,Student,Italian,300 - 600,25 - 36 months,Cash,200,Apple Iphone
+25,Female,Student,Italian,300 - 600,25 - 36 months,Credit,300,Lenovo (Android)
+26,Male,Employed,Italian,300 - 600,25 - 36 months,Cash,100,Huawei 
+18,Male,Student,Italian,Less than 300,12 - 24 months ,Credit,150,Huawei
+19,Male,Student,Italian,Less than 300,More than 36 months,Cash,250,LG (Android)
+25,Male,Student,Italian,Less than 300,25 - 36 months,Credit,150,Huawei
+27,Male,Student,Italian,Less than 300,25 - 36 months,Credit,200,Huawei
+29,Female,Student,Italian,Less than 300,12 - 24 months ,Credit,220,Lenovo
+24,Male,Employed,Italian,Less than 300,More than 36 months,Cash,250,Apple Iphone
+24,Male,Student,Italian,Less than 300,More than 36 months,Cash,600,Apple Iphone
+27,Male,Student,Italian,Less than 300,25 - 36 months,Credit,220,Huawei P9 lite
+32,Female,Student,Italian,Less than 300,More than 36 months,Cash,130,Asus
+19,Male,Student,Italian,Less than 300,25 - 36 months,Credit,120,SONY (Android)
+24,Female,Student,Italian,Less than 300,More than 36 months,Cash,250,ZTE (Android) 
+27,Female,Student,Italian,Less than 300,More than 36 months,Credit,200,Motorola (Android)
+24,Female,Student,Italian,Less than 300,More than 36 months,Cash,150,ZTE (Android) 
+24,Male,Student,Italian,Less than 300,More than 36 months,Credit,200,LG (Android)
+23,Male,Student,Italian,Less than 300,More than 36 months,Subscription,200,Samsung (Android)
